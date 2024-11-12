@@ -1,3 +1,4 @@
+python==3.10
 setuptools
 streamlit==1.22.0
 streamlit-webrtc==0.45.0
